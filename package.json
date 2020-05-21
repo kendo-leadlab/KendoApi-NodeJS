@@ -1,0 +1,23 @@
+{
+  "name": "kendoemailfind",
+  "version": "1.0.0",
+  "description": "This is the official Kendo API NodeJS/Typescript wrapper. It provides helpful methods to quickly implement our API in your NodeJS applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendo-leadlab/KendoApi-NodeJS.git"
+  },
+  "keywords": [
+    "email",
+    "finder"
+  ],
+  "author": "kendo leadlab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendo-leadlab/KendoApi-NodeJS/issues"
+  },
+  "homepage": "https://github.com/kendo-leadlab/KendoApi-NodeJS#readme"
+}

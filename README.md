@@ -10,7 +10,7 @@ Installation
 To install use the following command
 
 ```
-$ npm install KendoEmailFind@3.0.0 --save
+$ npm install KendoEmailFind@1.0.0 --save
 ```
 
 Usage
