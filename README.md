@@ -4,27 +4,12 @@ Kendo-Email Finder API NodeJS Wrapper
 
 This is the official Kendo API NodeJS/Typescript wrapper. It provides helpful methods to quickly implement our API in your NodeJS applications.
 
-Installation
-===
-
-To install use the following command
-
-```
-$ npm install KendoEmailFind@1.0.0 --save
-```
-
 Usage
 ===
 
 To start using the wrapper sign up for an account [here](https://kendoemailapp.com/) and get your api keys [here](https://kendoemailapp.com/accountetl). This wrapper utilizes ES6/Typescript Promises to handle the API calls.
 
 To initialize the wrapper use the following snippet, substituting in your `api key` and `api secrete key`...
-
-```
-var Kef = require('KendoEmailfind')({
-    apiKey: API_KEY
-});
-```
 
 You can now access the find and verify method from this object. To validate a single email use the following...
 
